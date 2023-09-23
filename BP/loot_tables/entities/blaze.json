@@ -1,0 +1,14 @@
+{
+    "pools": [
+        {
+            "rolls": 11,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:blaze_rod",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
