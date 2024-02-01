@@ -1,0 +1,17 @@
+{
+	"format_version": 1.16.100,
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "bd:diamond_ore"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "diamond_ore", 
+		"output": {
+			"item": "diamond",
+			"count": 4
+		  }
+	}
+}

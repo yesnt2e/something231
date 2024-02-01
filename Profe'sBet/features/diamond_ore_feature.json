@@ -1,0 +1,18 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "do:diamond_ore_feature"
+    },
+  "count": 15,
+  "replace_rules": [
+    {
+      "places_block": "diamond_ore",
+      "may_replace": [
+        "minecraft:stone",
+        "minecraft:deepslate"
+      ]
+    }
+  ]
+  }
+}

@@ -1,0 +1,1 @@
+fill ~ ~ ~ ^20 ^-20 ^20 air 0 destroy

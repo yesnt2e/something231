@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "This causes diamonds to generate more in the game. Also, if you smelt diamonds instead of mining, you get more. V2",
+    "name": "Profe's Better Diamonds",
+    "uuid": "1b11635e-912f-4918-bab3-cfa2296761ac",
+    "version": [1, 9, 0],
+    "min_engine_version": [ 1, 18, 0]
+  },
+  "modules": [
+    {
+      "description": "Profe's Better Diamonds",
+      "type": "data",
+      "uuid": "079e9f05-e716-451e-a904-3caf4a021915",
+      "version": [
+        1,
+        8,
+        0
+      ]
+    }
+  ]
+}
